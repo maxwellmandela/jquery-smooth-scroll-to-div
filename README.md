@@ -5,7 +5,7 @@ jqeury-smooth-scroll-to-div
 
 Usage
 ======
-Remember this simple plguin is scalled scroll.js
+Remember this simple plugin is called scroll.js
 Only thing you need to get going is Jquery
 Add these lines somewhere on your page
 
