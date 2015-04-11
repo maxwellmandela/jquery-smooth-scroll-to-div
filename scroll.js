@@ -1,3 +1,7 @@
+/*
+* Jquery Scroll to Div plugin
+* Author : Maxwell Mandela
+*/
 $('a[href^="#"]').on('click', function(event) {
 
     var target = $( $(this).attr('href') );
